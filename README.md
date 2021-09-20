@@ -5,6 +5,8 @@
 
   ## Description
 
+![Screenshot (78)](https://user-images.githubusercontent.com/81123612/133948674-78ad029a-c1cd-4fbd-abd0-5acfd53984db.png)
+
   ## A reducx version of our shop shop project.
 
   ## Table of Contents        
